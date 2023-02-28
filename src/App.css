@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 body {
-  background: -webkit-linear-gradient(90deg,#49b2b1,#016e8d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#49b2b1,#016e8d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(90deg,#11998e,#38ef7d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#11998e,#38ef7d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	background-size: cover;
 	animation: gradient 20s ease infinite;
 	height: 100vh;
